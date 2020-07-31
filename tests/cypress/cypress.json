@@ -1,0 +1,4 @@
+{
+  "experimentalNetworkMocking": true,
+  "baseUrl": "http://localhost:8080"
+}
